@@ -1,37 +1,117 @@
-### Hi there 👋
+<h1 align="left">Hi there 👋</h1>
 
-Hi, I'm Juan Belinchón from Madrid, Spain. I'm a developer who found my path in the exciting world of cybersecurity. I specialize in building Linux tools and projects, continuously learning and improving through platforms like Hack4u Academy, MasterMind, Hack The Box, and personal projects. 
+###
 
+<h5 align="left">Hi, I'm Juan Belinchón from Madrid, Spain. I'm a developer who found my path in the exciting world of cybersecurity. I specialize in building Linux tools and projects, continuously learning and improving through platforms like Hack4u Academy, MasterMind, Hack The Box, and personal projects.</h5>
 
-### Knowledge
+###
 
-- Know/Using
-  
-![image](https://github.com/user-attachments/assets/268ff654-7fdf-4d56-a5ee-409fe3741a3f)   |  ![image](https://github.com/user-attachments/assets/56a5e321-2f5b-4fcb-a04c-26844017ca09) |  ![image](https://github.com/user-attachments/assets/8f6d1309-6dab-4606-997d-a783410ae6a0)  |  ![image](https://github.com/user-attachments/assets/25e93834-d9e1-4767-bfe4-385379c18044)  | MONGO DB ![image](https://github.com/user-attachments/assets/dc6caf20-8183-499b-9f0e-53e75fcf57be) |  ![image](https://github.com/user-attachments/assets/158b4fa0-5168-452c-b42e-b06fd65c41f0) |  ![image](https://github.com/user-attachments/assets/49e05023-ecbb-4b25-b22a-9770313f4c38)  | Hardware  |OSINT Basic
+<h2 align="left">Knowledge</h2>
 
+###
 
+<div align="left">
+  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" alt="debian logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/arduino/00979D" height="40" alt="arduino logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/jenkins/D24939" height="40" alt="jenkins logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo"  />
+</div>
 
+###
 
+<h2 align="left">Learning</h2>
 
+###
 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" height="40" alt="embeddedc logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="40" alt="redhat logo"  />
+</div>
 
-- Learning
-  
-Bash |  ![image](https://github.com/user-attachments/assets/879d905d-cd68-472b-b1b3-15fe43ec82ca) |![image](https://github.com/user-attachments/assets/e0579517-7bfc-49b9-a746-a33ef306c0b4) | Ethical Hacking  | Computer forensic analysis  | ISO Rules  | German ![image](https://github.com/user-attachments/assets/9908dd03-3d9e-4e64-9b60-6329e716a5b0)
+###
 
+<h6 align="left">Ethical Hacking<br>Computer forensic analysis<br> German <br>Hardware</h6>
 
+###
 
-### Profesional experience 
-Arkanum Pictures, Berlin 2024
+<h2 align="left">Profesional experience</h2>
 
+###
 
+<h6 align="left">Arkanum Pictures, Berlin 2024</h6>
 
+###
 
-### Sources and Mentors🛠
+<h2 align="left">Sources and mentors</h2>
 
-https://hack4u.io/ | https://academy.hackthebox.com/ | https://mastermind.ac/ | https://openwebinars.net/
+###
 
+<p align="left">https://hack4u.io/ | https://academy.hackthebox.com/ | https://mastermind.ac/ | https://openwebinars.net/ | https://www.youtube.com/@davidbombal | https://dockerlabs.es/ | https://thehackerslabs.com</p>
 
-### Languages 📫
-Spanish, english, german? ---> soon
+###
 
+<h2 align="left">Links</h2>
+
+###
+
+<div align="left">
+  <a href=" linkedin.com/in/juan-belinchón-sánchez-47a735244 " target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<p align="left">- HTB profile:  https://app.hackthebox.com/profile/1728358<br>- HackMyVM: https://hackmyvm.eu/public/?u=belin</p>
+
+###
+
+<h2 align="left">Languages</h2>
+
+###
+
+<p align="left">English, Spanish , learning German</p>
+
+###
