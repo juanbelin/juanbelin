@@ -4,6 +4,14 @@
 
 <h5 align="left">Hi, I'm Juan Belinchón from Madrid, Spain. I'm a developer who found my path in the exciting world of cybersecurity. I specialize in building Linux tools and projects, continuously learning and improving through platforms like Hack4u Academy, MasterMind, Hack The Box, and personal projects.</h5>
 
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=juanbelin&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="140" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=juanbelin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="140" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=juanbelin&radius=16&theme=react&area=true&order=5" height="250" alt="activity-graph graph"  />
+</div>
+
+
 ###
 
 <h2 align="left">Knowledge</h2>
@@ -107,14 +115,5 @@
 
 <p align="left">English, Spanish , learning German</p>
 
-<h2 align="left">Stats</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juanbelin&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="140" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=juanbelin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="140" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=juanbelin&radius=16&theme=react&area=true&order=5" height="250" alt="activity-graph graph"  />
-</div>
 
 
