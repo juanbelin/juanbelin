@@ -74,13 +74,6 @@
 
 <h6 align="left">Ethical Hacking<br>Computer forensic analysis<br> German <br>Hardware</h6>
 
-###
-
-<h2 align="left">Profesional experience</h2>
-
-###
-
-<h6 align="left">Arkanum Pictures, Berlin 2024</h6>
 
 ###
 
@@ -123,11 +116,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=juanbelin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="140" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=juanbelin&radius=16&theme=react&area=true&order=5" height="250" alt="activity-graph graph"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/juanbelin/juanbelin/output/snake.svg" alt="Snake animation" />
-
-###
 
 
