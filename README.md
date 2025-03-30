@@ -6,7 +6,7 @@
 
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=juanbelin&radius=16&theme=react&area=true&order=5" height="250" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=juanbelin&radius=16&theme=react&area=true&order=5" height="220" alt="activity-graph graph"  />
   <img src="https://streak-stats.demolab.com?user=juanbelin&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 
 </div>
