@@ -109,7 +109,7 @@
 
 ###
 
-<p align="left">English, Spanish , learning German</p>
+<p align="left">English, Spanish </p>
 
 ###
 
