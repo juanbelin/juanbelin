@@ -6,11 +6,16 @@
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juanbelin&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="140" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=juanbelin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="140" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=juanbelin&radius=16&theme=react&area=true&order=5" height="250" alt="activity-graph graph"  />
+  <img src="https://streak-stats.demolab.com?user=juanbelin&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+
 </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/juanbelin/juanbelin/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/juanbelin/juanbelin/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/juanbelin/juanbelin/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
 
