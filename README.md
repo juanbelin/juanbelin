@@ -4,18 +4,26 @@
 
 <h5 align="left">Hi, I'm Juan Belinchón from Madrid, Spain. I'm a developer who found my path in the exciting world of cybersecurity. I specialize in building Linux tools and projects, continuously learning and improving through platforms like Hack4u Academy, MasterMind, Hack The Box, and personal projects.</h5>
 
+<div align="center">
+  <a href="https://www.linkedin.com/in/juan-belinch%C3%B3n-s%C3%A1nchez-47a735244/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://app.hackthebox.com/profile/1728358" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=HackTheBox&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"  />
+  </a>
+  <a href="https://hackmyvm.eu/public/?u=belin" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=HackMyVM&logo=codesandbox&label=&color=040404&logoColor=DBDBDB&labelColor=&style=for-the-badge" height="25" alt="codesandbox logo"  />
+  </a>
+</div>
+
+###
+
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=juanbelin&radius=16&theme=react&area=true&order=5" height="220" alt="activity-graph graph"  />
   <img src="https://streak-stats.demolab.com?user=juanbelin&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 
 </div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/juanbelin/juanbelin/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/juanbelin/juanbelin/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/juanbelin/juanbelin/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
 
@@ -83,9 +91,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="40" alt="redhat logo"  />
 </div>
 
-###
-
-<h6 align="left">Ethical Hacking<br>Computer forensic analysis<br> German <br>Hardware</h6>
 
 
 ###
@@ -96,21 +101,7 @@
 
 <p align="left">https://hack4u.io/ | https://academy.hackthebox.com/ | https://mastermind.ac/ | https://openwebinars.net/ | https://www.youtube.com/@davidbombal | https://dockerlabs.es/ | https://thehackerslabs.com</p>
 
-###
 
-<h2 align="left">Links</h2>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/juan-belinch%C3%B3n-s%C3%A1nchez-47a735244/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-<p align="left">- HTB profile:  https://app.hackthebox.com/profile/1728358<br>- HackMyVM: https://hackmyvm.eu/public/?u=belin</p>
 
 ###
 
@@ -120,5 +111,14 @@
 
 <p align="left">English, Spanish , learning German</p>
 
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/juanbelin/juanbelin/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/juanbelin/juanbelin/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/juanbelin/juanbelin/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 
 
