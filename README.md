@@ -5,9 +5,6 @@
 <h5 align="left">Hi, I'm Juan Belinchón from Madrid, Spain. I'm a developer who found my path in the exciting world of cybersecurity. I specialize in building Linux tools and projects, continuously learning and improving through platforms like Hack4u Academy, MasterMind, Hack The Box, and personal projects.</h5>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/juan-belinch%C3%B3n-s%C3%A1nchez-47a735244/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
   <a href="https://app.hackthebox.com/profile/1728358" target="_blank">
     <img src="https://img.shields.io/static/v1?message=HackTheBox&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"  />
   </a>
