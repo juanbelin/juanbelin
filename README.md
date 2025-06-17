@@ -2,7 +2,7 @@
 
 ###
 
-<h5 align="left">Hi, I'm Juan Belinchón from Madrid, Spain. I'm a developer who found my path in the exciting world of cybersecurity. I specialize in building Linux tools and projects, continuously learning and improving through platforms like Hack4u Academy, HackMyVM, Hack The Box, and personal projects.</h5>
+<h5 align="left">Hi, I'm Juan from Madrid, Spain. I'm a developer who found my path in the exciting world of cybersecurity. I specialize in building Linux tools and projects, continuously learning and improving through platforms like Hack4u Academy, HackMyVM, Hack The Box, and personal projects.</h5>
 
 <div align="center">
   <a href="https://app.hackthebox.com/profile/1728358" target="_blank">
