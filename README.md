@@ -11,6 +11,9 @@
   <a href="https://hackmyvm.eu/public/?u=belin" target="_blank">
     <img src="https://img.shields.io/static/v1?message=HackMyVM&logo=codesandbox&label=&color=040404&logoColor=DBDBDB&labelColor=&style=for-the-badge" height="25" alt="codesandbox logo"  />
   </a>
+  <a href="https://juanbelin.github.io/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Blog&logo=matrix&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="matrix logo"  />
+  </a>
 </div>
 
 ###
@@ -73,7 +76,7 @@
 
 ###
 
-<p align="left">https://hack4u.io/ | https://academy.hackthebox.com/ | https://mastermind.ac/ | https://openwebinars.net/ | https://www.youtube.com/@davidbombal | https://dockerlabs.es/ | https://thehackerslabs.com</p>
+<p align="left">https://hack4u.io/ | https://academy.hackthebox.com/ | https://hackmyvm.eu | https://www.vulnlab.com/ | https://www.youtube.com/@davidbombal | https://dockerlabs.es/ | https://thehackerslabs.com | https://bugbountylabs.com/ </p>
 
 
 
