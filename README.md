@@ -4,17 +4,15 @@
 
 ###
 
-<h5 align="left">Hi, I'm juanbelin I'm a developer who found my path in the exciting world of cybersecurity. I specialize in building Linux tools and projects, continuously learning and improving through platforms like Hack4u Academy, HackMyVM, Hack The Box, and personal projects.</h5>
-
 <div align="center">
   <a href="https://app.hackthebox.com/profile/1728358" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackTheBox&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"  />
+    <img src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00" height="35" alt="hackerrank logo"  />
   </a>
   <a href="https://hackmyvm.eu/public/?u=belin" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackMyVM&logo=codesandbox&label=&color=040404&logoColor=DBDBDB&labelColor=&style=for-the-badge" height="25" alt="codesandbox logo"  />
+    <img src="https://img.shields.io/static/v1?message=HackMyVM&logo=codesandbox&label=&color=040404&logoColor=DBDBDB&labelColor=&style=for-the-badge" height="35" alt="codesandbox logo"  />
   </a>
   <a href="https://juanbelin.github.io/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Blog&logo=matrix&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="matrix logo"  />
+    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" height="35" alt="matrix logo"  />
   </a>
 </div>
 
@@ -22,9 +20,11 @@
 
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=juanbelin&radius=16&theme=react&area=true&order=5" height="220" alt="activity-graph graph"  />
-  <img src="https://streak-stats.demolab.com?user=juanbelin&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=juanbelin&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+</div>
 
+<div align="center">
+  <img alt="followers" src="https://img.shields.io/github/followers/juanbelin?label=Followers&style=social">
 </div>
 
 ###
@@ -56,23 +56,7 @@
 
 ###
 
-<h2 align="left">Learning</h2>
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" width="50"  alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" width="50"  alt="c logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" width="50"  alt="cplusplus logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" height="50" width="50"  alt="embeddedc logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="50" width="50"  alt="gitlab logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="50" width="50"  alt="raspberrypi logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="50" width="50"  alt="redhat logo"  />
-</div>
-
-
-
-###
 
 <h2 align="left">Sources and mentors</h2>
 
