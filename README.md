@@ -33,10 +33,10 @@
 
 ###
 
-<div align="left">
+<div align="center">
     <a href="https://go-skill-icons.vercel.app/">
     <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=kubernetes,docker,c,bash,powershell,python,php,java,mysql,vim,jekyll,latex,windows,linux,kali,raspberrypi,tor,githubdesktop,gitbash,git,"
+      src="https://go-skill-icons.vercel.app/api/icons?i=c,bash,powershell,python,php,java,mysql,vim,jekyll,latex,windows,wsl,linux,arch,kali,raspberrypi,kubernetes,docker,tor,githubdesktop,gitbash,git&perline=7"
     />
   </a>
 
@@ -51,7 +51,7 @@
 
 ###
 
-<p align="left">https://hack4u.io/ | https://academy.hackthebox.com/ | https://hackmyvm.eu | https://www.vulnlab.com/ | https://www.youtube.com/@davidbombal | https://dockerlabs.es/ | https://thehackerslabs.com | https://bugbountylabs.com/ </p>
+<p align="center">https://hack4u.io/ | https://academy.hackthebox.com/ | https://hackmyvm.eu | https://www.vulnlab.com/ | https://www.youtube.com/@davidbombal | https://dockerlabs.es/ | https://thehackerslabs.com | https://bugbountylabs.com/ </p>
 
 
 
