@@ -19,21 +19,7 @@
 
 ###
 
-<h2 align="left">Knowledge</h2>
 
-###
-
-<div align="center">
-    <a href="https://go-skill-icons.vercel.app/">
-    <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=c,bash,powershell,python,php,java,mysql,vim,jekyll,latex,windows,wsl,linux,arch,kali,raspberrypi,kubernetes,docker,tor,githubdesktop,gitbash,git&perline=7"
-    />
-  </a>
-
-  
-</div>
-
-###
 
 
 
