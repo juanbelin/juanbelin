@@ -18,36 +18,3 @@
 
 
 ###
-
-
-
-
-
-<h2 align="left">Sources and mentors</h2>
-
-###
-
-<p align="center">https://hack4u.io/ | https://academy.hackthebox.com/ | https://hackmyvm.eu | https://www.vulnlab.com/ | https://www.youtube.com/@davidbombal | https://dockerlabs.es/ | https://thehackerslabs.com | https://bugbountylabs.com/ </p>
-
-
-
-###
-
-<h2 align="left">Languages</h2>
-
-###
-
-<p align="left">English, Spanish </p>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/juanbelin/juanbelin/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/juanbelin/juanbelin/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/juanbelin/juanbelin/output/pacman-contribution-graph.svg">
-</picture>
-
-
-###
-
-juanbelin
